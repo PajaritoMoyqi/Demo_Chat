@@ -1,5 +1,5 @@
 {
-  "name": "Demo_Chat",
+  "name": "demo_chat",
   "version": "1.0.0",
   "description": "Demo chat program",
   "main": "app.js",
